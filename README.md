@@ -30,5 +30,5 @@ Because it is hard to determine how well the agent/environments perform we test 
 
 Experiment 12: UES-CMAES restart hybrid with trained agent on standard rewards - Results: very good
 
-Experiment 13: UES-CMAES restart hybrid with trained agent on standard rewards - Results: very good
+Experiment 13: UES-CMAES restart hybrid with trained agent on normalized rewards - Results: very good
  
